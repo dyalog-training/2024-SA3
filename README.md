@@ -1,7 +1,7 @@
 # Materials for Dyalog24 Web Services Workshop SA3
 
 ### Prerequisites
-* Dyalog APL installed - preferably version 18.2 Unicode or later
+* Dyalog APL installed - while Jarvis and HttpCommand can run on any Dyalog version from 17.1, Classic or Unicode, 32 or 64-bit, we prefer you use version 18.0 Unicode or later.
 
 ### Materials
 Materials for the workshop, including the latest versions of HttpCommand and Jarvis will be uploaded to this repository during the week of 9 September 2024. However, it's entirely likely that updates will be made up to the day of the workshop. Copies of the materials will also be made available on flash-drives at the workshop.
